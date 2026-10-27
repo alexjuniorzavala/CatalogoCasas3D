@@ -3,13 +3,13 @@
     "titulo": "Tour da casa",
     "url": "https://www.youtube.com/playlist?list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK",
     "totalVideos": 174,
-    "dataExtracao": "2026-10-27T09:41:05.532Z"
+    "dataExtracao": "2026-10-27T10:23:01.164Z"
   },
   "videos": [
     {
       "numero": 1,
       "nome": "casa 1",
-      "titulo": "Simple House | House design idea |  12m x 8m (96sqm) | 3Bedroom",
+      "titulo": "Casa simples | Ideia de design de casa | 12m x 8m (96m2) | 3Quarto",
       "videoId": "7eQEKcwGNws",
       "url": "https://www.youtube.com/watch?v=7eQEKcwGNws&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=1&pp=iAQB0gcJCTAMAYcqIYzvmAkA",
       "thumbnail": "https://i.ytimg.com/vi/7eQEKcwGNws/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLCeL43X8Ghc1fN4p3OCG0XjpyAUXA",
@@ -18,7 +18,7 @@
     {
       "numero": 2,
       "nome": "casa 2",
-      "titulo": "Beautiful Simple House  | House design idea |  8m x 11m with 2Bedroom",
+      "titulo": "Linda casa simples | ideia de design de casa | 8m x 11m com 2Quarto",
       "videoId": "TK3FpC58tmY",
       "url": "https://www.youtube.com/watch?v=TK3FpC58tmY&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=2&pp=iAQB0gcJCTAMAYcqIYzvmAkA",
       "thumbnail": "https://i.ytimg.com/vi/TK3FpC58tmY/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLDBuSXBzprwzxvjBMf2fzEKGBuprA",
@@ -27,7 +27,7 @@
     {
       "numero": 3,
       "nome": "casa 3",
-      "titulo": "Simple House | House design idea |  12m x 18m (216sqm) | 3Bedroom",
+      "titulo": "Casa simples | Ideia de design de casa | 12m x 18m (216sqm) | 3Quarto",
       "videoId": "x46V4vVhOkE",
       "url": "https://www.youtube.com/watch?v=x46V4vVhOkE&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=3&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/x46V4vVhOkE/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLCu7ZXOhFv_9GkiMwUeN_0kPps8Vg",
@@ -36,7 +36,7 @@
     {
       "numero": 4,
       "nome": "casa 4",
-      "titulo": "Simple House Design idea | 9m x 12m (108sqm) | 3Bedroom",
+      "titulo": "Ideia de design de casa simples | 9m x 12m (108m2) | 3Bedroom",
       "videoId": "0ZpIM48MavU",
       "url": "https://www.youtube.com/watch?v=0ZpIM48MavU&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=4&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/0ZpIM48MavU/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLCNDDzNFoHfoqrAjv4preBl0ceCKg",
@@ -45,7 +45,7 @@
     {
       "numero": 5,
       "nome": "casa 5",
-      "titulo": "Simple House | House design idea |  8.5m x 16m (136sqm) | 4Bedrooms",
+      "titulo": "Casa simples | Ideia de design de casa | 8,5m x 16m (136m2) | 4Quartos",
       "videoId": "q3lYJwl2dSc",
       "url": "https://www.youtube.com/watch?v=q3lYJwl2dSc&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=5&pp=iAQB0gcJCTAMAYcqIYzvmAkA",
       "thumbnail": "https://i.ytimg.com/vi/q3lYJwl2dSc/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLDVJGqvA7c3QaRqY9dHZN42vNm_SQ",
@@ -54,7 +54,7 @@
     {
       "numero": 6,
       "nome": "casa 6",
-      "titulo": "House design idea |  10m x 14m (140sqm) | 4Bedrooms",
+      "titulo": "Ideia de design de casa | 10m x 14m (140sqm) | 4Bedrooms",
       "videoId": "R19HG8GFTu4",
       "url": "https://www.youtube.com/watch?v=R19HG8GFTu4&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=6&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/R19HG8GFTu4/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLD8lrgX_yJH4P4gVY_keFQB8KJ8tA",
@@ -63,7 +63,7 @@
     {
       "numero": 7,
       "nome": "casa 7",
-      "titulo": "Simple House | House design idea |  15m x 10m with 3Bedroom",
+      "titulo": "Casa simples | Ideia de design de casa | 15m x 10m com 3Quartos",
       "videoId": "mbmhMVsWmM4",
       "url": "https://www.youtube.com/watch?v=mbmhMVsWmM4&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=7&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/mbmhMVsWmM4/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLD-EKYTQtlRhgelWQe-48DPE4fJig",
@@ -72,7 +72,7 @@
     {
       "numero": 8,
       "nome": "casa 8",
-      "titulo": "House Design idea | Simple House | 11m x 15m with 3Bedroom",
+      "titulo": "Ideia de design de casa | Casa simples | 11m x 15m com 3Quartos",
       "videoId": "EdOzNGoAB2k",
       "url": "https://www.youtube.com/watch?v=EdOzNGoAB2k&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=8&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/EdOzNGoAB2k/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLBVbHks7c0bfQk2Nj_n1vKFdJwclQ",
@@ -81,7 +81,7 @@
     {
       "numero": 9,
       "nome": "casa 9",
-      "titulo": "Simple House Design idea | 11m x 14m with 3bedroom",
+      "titulo": "Ideia de design de casa simples | 11m x 14m com 3quartos",
       "videoId": "5_7svjgNNg8",
       "url": "https://www.youtube.com/watch?v=5_7svjgNNg8&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=9&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/5_7svjgNNg8/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLAUCWf2K2WU7WDosTk7Gud_NcyvdA",
@@ -90,7 +90,7 @@
     {
       "numero": 10,
       "nome": "casa 10",
-      "titulo": "Simple House Design idea | 12m x 20m with 3Bedroom",
+      "titulo": "Ideia de design de casa simples | 12m x 20m com 3Quarto",
       "videoId": "nU9O5KnSyhg",
       "url": "https://www.youtube.com/watch?v=nU9O5KnSyhg&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=10&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/nU9O5KnSyhg/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLA1lxPM9v-mntc6ZCGl3MiK08NkRA",
@@ -99,7 +99,7 @@
     {
       "numero": 11,
       "nome": "casa 11",
-      "titulo": "Small House | House design idea | 7.5m x 9m with 2Bedroom",
+      "titulo": "Casa pequena | Ideia de design de casa | 7,5m x 9m com 2Quartos",
       "videoId": "h1KJiS70MlU",
       "url": "https://www.youtube.com/watch?v=h1KJiS70MlU&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=11&t=1s&pp=iAQB0gcJCTAMAYcqIYzvmAkA",
       "thumbnail": "https://i.ytimg.com/vi/h1KJiS70MlU/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLBVmFxBaoyDI6bYhIya1hFrrcvviQ",
@@ -108,7 +108,7 @@
     {
       "numero": 12,
       "nome": "casa 12",
-      "titulo": "House design idea | 16m x 11m (176sqm) | 3Bedrooms",
+      "titulo": "Ideia de design de casa | 16m x 11m (176m2) | 3Quartos",
       "videoId": "aad5HLdt5w4",
       "url": "https://www.youtube.com/watch?v=aad5HLdt5w4&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=12&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/aad5HLdt5w4/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLDEND0ekGwCqm-kPK_524QvYdAPXw",
@@ -117,7 +117,7 @@
     {
       "numero": 13,
       "nome": "casa 13",
-      "titulo": "Simple House Design idea | 14m x 15m (130sqm) | 3bedroom",
+      "titulo": "Ideia de design de casa simples | 14m x 15m (130m2) | 3bedroom",
       "videoId": "qOYFGpJweY8",
       "url": "https://www.youtube.com/watch?v=qOYFGpJweY8&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=13&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/qOYFGpJweY8/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLDrlRvs4rM75qHdHeb6j_UKy65BNA",
@@ -126,7 +126,7 @@
     {
       "numero": 14,
       "nome": "casa 14",
-      "titulo": "House Design idea | Small House 7m x 11m | 3Bedroom",
+      "titulo": "Ideia de design de casa | Casa Pequena 7m x 11m | 3Quarto",
       "videoId": "ojpRYglxJXU",
       "url": "https://www.youtube.com/watch?v=ojpRYglxJXU&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=14&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/ojpRYglxJXU/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLBLA1FmQcpcT5L8lKy6Y6VgPSVL7g",
@@ -135,7 +135,7 @@
     {
       "numero": 15,
       "nome": "casa 15",
-      "titulo": "Simple House | House Design with Swimming pool |15m x 9m (3Bedroom)",
+      "titulo": "Casa simples | Design de casa com piscina | 15m x 9m (3quartos)",
       "videoId": "TqIJ9p08WYs",
       "url": "https://www.youtube.com/watch?v=TqIJ9p08WYs&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=15&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/TqIJ9p08WYs/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLDGpOdBLV33OmDbsdLWMjK4laDILQ",
@@ -144,7 +144,7 @@
     {
       "numero": 16,
       "nome": "casa 16",
-      "titulo": "House Design idea | Modern House 2 storey | 9m x 11m (4bedroom)",
+      "titulo": "Ideia de design da casa | Modern House 2 andares | 9m x 11m (4bedroom)",
       "videoId": "IRy8H-HvHno",
       "url": "https://www.youtube.com/watch?v=IRy8H-HvHno&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=16&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/IRy8H-HvHno/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLBZirVAoSchytYbZ4BBkHptpiAQXg",
@@ -153,7 +153,7 @@
     {
       "numero": 17,
       "nome": "casa 17",
-      "titulo": "Modern House | House Design 12m x 16m One storey (4 Bedroom)",
+      "titulo": "Modern House | Design de casa 12m x 16m One floory (4 quartos)",
       "videoId": "nWNHgBDkfZQ",
       "url": "https://www.youtube.com/watch?v=nWNHgBDkfZQ&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=17&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/nWNHgBDkfZQ/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLAh_PFzbcBIQlU_og8sZZdqureL3Q",
@@ -162,7 +162,7 @@
     {
       "numero": 18,
       "nome": "casa 18",
-      "titulo": "House design idea |  Modern house 9m x 12m (108sqm) | 3Bedrooms",
+      "titulo": "Ideia de design de casa | Casa moderna 9m x 12m (108m2) | 3Quartos",
       "videoId": "91F29CtMs1s",
       "url": "https://www.youtube.com/watch?v=91F29CtMs1s&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=18&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/91F29CtMs1s/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLAeYssOXW2M5PjcR0X7fkDWRP3nNg",
@@ -171,7 +171,7 @@
     {
       "numero": 19,
       "nome": "casa 19",
-      "titulo": "2 Storey House Design | 12m x 15m with 5Bedrooms(S Design idea)",
+      "titulo": "Design de casa de 2 andares | 12m x 15m com 5Quartos (S ideia de design)",
       "videoId": "REn3okqVzw0",
       "url": "https://www.youtube.com/watch?v=REn3okqVzw0&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=19&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/REn3okqVzw0/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLAywnumFeZE-e61oggMtQgxRzzoow",
@@ -180,7 +180,7 @@
     {
       "numero": 20,
       "nome": "casa 20",
-      "titulo": "Beautiful Simple House | House Design 4.2m x 9.5m with 2Bedroom",
+      "titulo": "Linda casa simples | Design de casa 4.2m x 9,5m com 2Quartos",
       "videoId": "Cz2Qx83Xh08",
       "url": "https://www.youtube.com/watch?v=Cz2Qx83Xh08&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=20&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/Cz2Qx83Xh08/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLDG00zP75Oj-X1K63DbmydDeKkQaQ",
@@ -189,7 +189,7 @@
     {
       "numero": 21,
       "nome": "casa 21",
-      "titulo": "House Design idea |  Modern House 9m x 11m (99sqm)",
+      "titulo": "Ideia de design de casa | Modern House 9m x 11m (99sqm)",
       "videoId": "IKpH-QsJS8M",
       "url": "https://www.youtube.com/watch?v=IKpH-QsJS8M&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=21&pp=iAQB0gcJCTAMAYcqIYzvmAkA",
       "thumbnail": "https://i.ytimg.com/vi/IKpH-QsJS8M/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLC4CmJ0bX06O2zV2iTOCLMdTTvYcQ",
@@ -198,7 +198,7 @@
     {
       "numero": 22,
       "nome": "casa 22",
-      "titulo": "One storey modern House | 10m x 12m (3Bedroom)",
+      "titulo": "Casa moderna de um andar | 10m x 12m (3Quartos)",
       "videoId": "ZDKYyEIWmYY",
       "url": "https://www.youtube.com/watch?v=ZDKYyEIWmYY&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=22&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/ZDKYyEIWmYY/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLC2JZJbs2T_PMRasxts1-0SwMF4QA",
@@ -207,7 +207,7 @@
     {
       "numero": 23,
       "nome": "casa 23",
-      "titulo": "Single Storey House Design | Design with 3Bedroom (15m x 11m)",
+      "titulo": "Design de casa de um andar | Design com 3Quartos (15m x 11m)",
       "videoId": "VirdxdXbkIU",
       "url": "https://www.youtube.com/watch?v=VirdxdXbkIU&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=23&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/VirdxdXbkIU/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLB8_9RmkGO0Ag3TCz-yWan0TSbD6Q",
@@ -216,7 +216,7 @@
     {
       "numero": 24,
       "nome": "casa 24",
-      "titulo": "One Storey modern house | 11m x 16m with 3Bedroom",
+      "titulo": "One Storey casa moderna | 11m x 16m com 3Quartos",
       "videoId": "LujmLQZAM2A",
       "url": "https://www.youtube.com/watch?v=LujmLQZAM2A&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=24&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/LujmLQZAM2A/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLBflUDPgL7oyQmq9DstuOL5jYVI9Q",
@@ -225,7 +225,7 @@
     {
       "numero": 25,
       "nome": "casa 25",
-      "titulo": "Modern 2 Storey House idea | 6m x 10m(3 Bedroom)",
+      "titulo": "Ideia moderna da casa de 2 andares | 6m x 10m (3 quartos)",
       "videoId": "FAZtw03aDvc",
       "url": "https://www.youtube.com/watch?v=FAZtw03aDvc&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=25&pp=iAQB0gcJCTAMAYcqIYzvmAkA",
       "thumbnail": "https://i.ytimg.com/vi/FAZtw03aDvc/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLDMyrefSksbS7JfTthgp-sWI1rbuw",
@@ -234,7 +234,7 @@
     {
       "numero": 26,
       "nome": "casa 26",
-      "titulo": "Modern House design idea |  10m x 14m (140sqm) | 3Bedroom",
+      "titulo": "Ideia moderna de design de casa | 10m x 14m (140sqm) | 3Bedroom",
       "videoId": "etrPvxgsHew",
       "url": "https://www.youtube.com/watch?v=etrPvxgsHew&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=26&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/etrPvxgsHew/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLAV53oxVPQN5fK8nYmFHGBo0MUZtg",
@@ -243,7 +243,7 @@
     {
       "numero": 27,
       "nome": "casa 27",
-      "titulo": "Simple House Design idea |  9.5m x 12m (114sqm) | 3Bedroom",
+      "titulo": "Ideia de design de casa simples | 9,5m x 12m (114m2) | 3Bedroom",
       "videoId": "HKYlzgnv6IU",
       "url": "https://www.youtube.com/watch?v=HKYlzgnv6IU&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=27&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/HKYlzgnv6IU/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLBAtpIrgc1aPt3YlbOO3q_LhhxhgA",
@@ -252,7 +252,7 @@
     {
       "numero": 28,
       "nome": "casa 28",
-      "titulo": "House design idea |  Modern house 7.5m x 9m (68sqm)",
+      "titulo": "Ideia de design da casa | Casa moderna 7,5m x 9m (68sqm)",
       "videoId": "IVc5e-45lo0",
       "url": "https://www.youtube.com/watch?v=IVc5e-45lo0&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=28&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/IVc5e-45lo0/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLDhXfFD1BZChBPdvoogmk7e-LM35Q",
@@ -261,7 +261,7 @@
     {
       "numero": 29,
       "nome": "casa 29",
-      "titulo": "House design idea | Modern house 8m x 14m (112sqm)",
+      "titulo": "Ideia de design de casa | Casa moderna 8m x 14m (112m2)",
       "videoId": "eo_8buzZK44",
       "url": "https://www.youtube.com/watch?v=eo_8buzZK44&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=29&pp=iAQB0gcJCTAMAYcqIYzvmAkA",
       "thumbnail": "https://i.ytimg.com/vi/eo_8buzZK44/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLBHVyphPTUG_xH_53r7B2weiG8A2w",
@@ -270,7 +270,7 @@
     {
       "numero": 30,
       "nome": "casa 30",
-      "titulo": "Simple House design idea |  8m x 9.5m (76sqm) | 2Bedroom",
+      "titulo": "Ideia de design de casa simples | 8m x 9,5m (76m2) | 2Bedroom",
       "videoId": "687SPzLp4zM",
       "url": "https://www.youtube.com/watch?v=687SPzLp4zM&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=30&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/687SPzLp4zM/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLA0o16k0WmjHcux1jcAJhfhIwbadA",
@@ -279,7 +279,7 @@
     {
       "numero": 31,
       "nome": "casa 31",
-      "titulo": "Modern House design idea | 11m x 11m (121sqm) | 2Bedroom",
+      "titulo": "Ideia moderna de design de casa | 11m x 11m (121sqm) | 2Bedroom",
       "videoId": "oH6JfAmdgg4",
       "url": "https://www.youtube.com/watch?v=oH6JfAmdgg4&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=31&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/oH6JfAmdgg4/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLBgx24VCstuTzgD-2OWT_CKcsYypg",
@@ -288,7 +288,7 @@
     {
       "numero": 32,
       "nome": "casa 32",
-      "titulo": "Simple House | House Design idea |  9m x 12m (3Bedroom)",
+      "titulo": "Casa simples | Ideia de design de casa | 9m x 12m (3Quartos)",
       "videoId": "a1PGYzTqiII",
       "url": "https://www.youtube.com/watch?v=a1PGYzTqiII&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=32&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/a1PGYzTqiII/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLAfRLhXW8rLjpXDy-qobsE0etdzbA",
@@ -297,7 +297,7 @@
     {
       "numero": 33,
       "nome": "casa 33",
-      "titulo": "Modern small House 2storey |  7.5m x 9m with 5Bedrooms",
+      "titulo": "Casa pequena moderna 2stória | 7,5m x 9m com 5Quartos",
       "videoId": "fFPo-9MqUQA",
       "url": "https://www.youtube.com/watch?v=fFPo-9MqUQA&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=33&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/fFPo-9MqUQA/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLAxNu-M4Hr06k86QlHAA2UKaA08oQ",
@@ -306,7 +306,7 @@
     {
       "numero": 34,
       "nome": "casa 34",
-      "titulo": "Simple House | House Design idea |  6m x 9m with Swimming pool",
+      "titulo": "Casa simples | Ideia de design de casa | 6m x 9m com piscina",
       "videoId": "OcVn3SExV6M",
       "url": "https://www.youtube.com/watch?v=OcVn3SExV6M&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=34&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/OcVn3SExV6M/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLAM_LAdoS-PqdVZ2FSoDO9e2aP1Dg",
@@ -315,7 +315,7 @@
     {
       "numero": 35,
       "nome": "casa 35",
-      "titulo": "Modern Small House | House Design idea |  6m x 9m (2Bedroom)",
+      "titulo": "Casa Pequena Moderna | Ideia de design de casa | 6m x 9m (2Quarto)",
       "videoId": "n87dbXfJ1Ro",
       "url": "https://www.youtube.com/watch?v=n87dbXfJ1Ro&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=35&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/n87dbXfJ1Ro/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLAOEgYqnk5nJDmTZI4txu876-u_cw",
@@ -324,7 +324,7 @@
     {
       "numero": 36,
       "nome": "casa 36",
-      "titulo": "Modern House Design idea | 12m x 15m 2Storey | 4Bedroom",
+      "titulo": "Ideia moderna de design de casa | 12m x 15m 2Storey | 4Bedroom",
       "videoId": "30enRYILlPg",
       "url": "https://www.youtube.com/watch?v=30enRYILlPg&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=36&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/30enRYILlPg/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLDB9smKtcV4wZtiCg7N1NABA_jdwA",
@@ -333,7 +333,7 @@
     {
       "numero": 37,
       "nome": "casa 37",
-      "titulo": "Modern small House Design | Simple House 6m x 8m",
+      "titulo": "Design de casa pequena moderna | Casa simples 6m x 8m",
       "videoId": "agf3xrg2yvQ",
       "url": "https://www.youtube.com/watch?v=agf3xrg2yvQ&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=37&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/agf3xrg2yvQ/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLCxS1crj2fuM9Rlqd2JRDIPuABxLw",
@@ -342,7 +342,7 @@
     {
       "numero": 38,
       "nome": "casa 38",
-      "titulo": "Modern House | House Design idea |  7.5m x 11m with Swimming pool",
+      "titulo": "Modern House | Ideia de design de casa | 7,5m x 11m com piscina",
       "videoId": "y0XvtRpZXRQ",
       "url": "https://www.youtube.com/watch?v=y0XvtRpZXRQ&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=38&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/y0XvtRpZXRQ/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLAGT6WWMT7O3EewXRiSuv7EL5INnw",
@@ -351,7 +351,7 @@
     {
       "numero": 39,
       "nome": "casa 39",
-      "titulo": "Simple House | House Design idea |  10m x 15m with 4Bedrooms",
+      "titulo": "Casa simples | Ideia de design de casa | 10m x 15m com 4Quartos",
       "videoId": "pNqofuYktfE",
       "url": "https://www.youtube.com/watch?v=pNqofuYktfE&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=39&pp=iAQB0gcJCTAMAYcqIYzvmAkA",
       "thumbnail": "https://i.ytimg.com/vi/pNqofuYktfE/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLDqB4E1ehSEX2vLz4sT6hQJGgVppA",
@@ -360,7 +360,7 @@
     {
       "numero": 40,
       "nome": "casa 40",
-      "titulo": "Modern House | House Design idea |  15m x 10m with Carparking",
+      "titulo": "Modern House | Ideia de design de casa | 15m x 10m com estacionamento",
       "videoId": "bCIuvW7VV6I",
       "url": "https://www.youtube.com/watch?v=bCIuvW7VV6I&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=40&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/bCIuvW7VV6I/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLCvInRTou6Ka4jHAo7kBrNnNAbW4w",
@@ -369,7 +369,7 @@
     {
       "numero": 41,
       "nome": "casa 41",
-      "titulo": "Modern House 2storey |  9m x 11m with 4Bedrooms",
+      "titulo": "Modern House 2storey | 9m x 11m com 4Quartos",
       "videoId": "P0H9NjyoXfs",
       "url": "https://www.youtube.com/watch?v=P0H9NjyoXfs&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=41&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/P0H9NjyoXfs/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLA7LH3ugQsQGXKVQfKPFtN4ZdHosw",
@@ -378,7 +378,7 @@
     {
       "numero": 42,
       "nome": "casa 42",
-      "titulo": "Simple House | House Design idea |  7.5m x 9m",
+      "titulo": "Casa Simples | Ideia de design de casa | 7,5m x 9m",
       "videoId": "_2DCNDhLRDU",
       "url": "https://www.youtube.com/watch?v=_2DCNDhLRDU&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=42&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/_2DCNDhLRDU/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLA-3QPgCs9TxP98ETvZRcEC4DoYLQ",
@@ -387,7 +387,7 @@
     {
       "numero": 43,
       "nome": "casa 43",
-      "titulo": "Modern House Design idea |  9m x 10m 2Storey(4Bedrooms)",
+      "titulo": "Ideia moderna do design da casa | 9m x 10m 2Storey (4Bedrooms)",
       "videoId": "Lh6t1bGATb0",
       "url": "https://www.youtube.com/watch?v=Lh6t1bGATb0&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=43&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/Lh6t1bGATb0/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLA3_0NOEvLHre4OS9xYByPgGhQByA",
@@ -396,7 +396,7 @@
     {
       "numero": 44,
       "nome": "casa 44",
-      "titulo": "Modern House | House Design idea |  7m x 9.5m with Swimming pool",
+      "titulo": "Modern House | Ideia de design de casa | 7m x 9,5m com piscina",
       "videoId": "_TiFolpDSiY",
       "url": "https://www.youtube.com/watch?v=_TiFolpDSiY&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=44&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/_TiFolpDSiY/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLCJzXNP_kAixswl1iZnZZzlqgWJxw",
@@ -405,7 +405,7 @@
     {
       "numero": 45,
       "nome": "casa 45",
-      "titulo": "Simple House | House Design idea |  10m x 12m with Swimming pool",
+      "titulo": "Casa simples | Ideia de design de casa | 10m x 12m com piscina",
       "videoId": "LPkjetdUTkM",
       "url": "https://www.youtube.com/watch?v=LPkjetdUTkM&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=45&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/LPkjetdUTkM/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLAIiO_ipLwuqst8S3pM_H2o2SgOwg",
@@ -414,7 +414,7 @@
     {
       "numero": 46,
       "nome": "casa 46",
-      "titulo": "Modern House | House Design idea |  9m x 15m with 2Carparking",
+      "titulo": "Casa moderna | Ideia de design de casa | 9m x 15m com 2Carparking",
       "videoId": "8BtcL-xwFcA",
       "url": "https://www.youtube.com/watch?v=8BtcL-xwFcA&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=46&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/8BtcL-xwFcA/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLCmZ3QtXXgHzwJ2FZAKOW7znMhV7w",
@@ -423,7 +423,7 @@
     {
       "numero": 47,
       "nome": "casa 47",
-      "titulo": "Simple House | House Design idea |  11m x 7m House plan",
+      "titulo": "Casa Simples | Ideia de design de casa | 11m x 7m Plano da casa",
       "videoId": "SnLzEy4kMmM",
       "url": "https://www.youtube.com/watch?v=SnLzEy4kMmM&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=47&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/SnLzEy4kMmM/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLByrfugeDRYCV_LGokqXq7ZRFYRLQ",
@@ -432,7 +432,7 @@
     {
       "numero": 48,
       "nome": "casa 48",
-      "titulo": "Modern House | House Design idea |  7.5m x 9.5m 2Storey",
+      "titulo": "Modern House | Ideia de design de casa | 7,5m x 9,5m 2Storey",
       "videoId": "hNaBsHPTy5s",
       "url": "https://www.youtube.com/watch?v=hNaBsHPTy5s&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=48&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/hNaBsHPTy5s/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLBojjZVc-SoPWE_gEDlpt3q6_vwug",
@@ -441,7 +441,7 @@
     {
       "numero": 49,
       "nome": "casa 49",
-      "titulo": "Simple House Design 3Bedroom | 9m x 12m (108sqm)",
+      "titulo": "Design de casa simples 3Quarto | 9m x 12m (108m2)",
       "videoId": "n8FNeSz-pvw",
       "url": "https://www.youtube.com/watch?v=n8FNeSz-pvw&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=49&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/n8FNeSz-pvw/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLA7bhrgZP0n1D7vcEd94AgGd9TnZA",
@@ -450,7 +450,7 @@
     {
       "numero": 50,
       "nome": "casa 50",
-      "titulo": "Modern House Design 3Bedrooms | 10m x 15m (150sqm)",
+      "titulo": "Design de casa moderna 3Quartos | 10m x 15m (150sqm)",
       "videoId": "nKiz0w4_ThM",
       "url": "https://www.youtube.com/watch?v=nKiz0w4_ThM&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=50&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/nKiz0w4_ThM/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLAVmrA2vUTKaFgN5MXVz9jz_MWqRQ",
@@ -459,7 +459,7 @@
     {
       "numero": 51,
       "nome": "casa 51",
-      "titulo": "Modern House Design 5Bedrooms | 12m x 18m (216sqm)",
+      "titulo": "Design de casa moderna 5Quartos | 12m x 18m (216sqm)",
       "videoId": "LcghKUIwO-o",
       "url": "https://www.youtube.com/watch?v=LcghKUIwO-o&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=51&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/LcghKUIwO-o/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLDrqmMGwkFgVoCIAKhW6XhewLfHfg",
@@ -468,7 +468,7 @@
     {
       "numero": 52,
       "nome": "casa 52",
-      "titulo": "Simple House | Modern House Design idea |  9.5m x 12m",
+      "titulo": "Casa simples | Ideia de design de casa moderna | 9,5m x 12m",
       "videoId": "ya5lgst3KWE",
       "url": "https://www.youtube.com/watch?v=ya5lgst3KWE&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=52&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/ya5lgst3KWE/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLAWqPrr6ihvJmw1kkLt6Z7z2UkpFg",
@@ -477,7 +477,7 @@
     {
       "numero": 53,
       "nome": "casa 53",
-      "titulo": "Modern House Design idea |  11m x 15m 2Storey (5Bedrooms)",
+      "titulo": "Ideia de design de casa moderna | 11m x 15m 2Storey (5Bedrooms)",
       "videoId": "A_mcP92dfdM",
       "url": "https://www.youtube.com/watch?v=A_mcP92dfdM&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=53&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/A_mcP92dfdM/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLAh3Gzbds0m6FCrzjZ9PbSuODavGA",
@@ -486,7 +486,7 @@
     {
       "numero": 54,
       "nome": "casa 54",
-      "titulo": "Simple House | House Design idea |  7m x 9m with Garden",
+      "titulo": "Casa simples | Ideia de design de casa | 7m x 9m com jardim",
       "videoId": "nOr_FRGv-kM",
       "url": "https://www.youtube.com/watch?v=nOr_FRGv-kM&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=54&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/nOr_FRGv-kM/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLCof_9Z-5-xYO0qnwYKJR3wzl0alw",
@@ -495,7 +495,7 @@
     {
       "numero": 55,
       "nome": "casa 55",
-      "titulo": "Simple House Design idea |  6m x 9m House plan (2bedroom)",
+      "titulo": "Ideia de design de casa simples | 6m x 9m Plano da casa (2quarto)",
       "videoId": "Lvmx_VKPkqU",
       "url": "https://www.youtube.com/watch?v=Lvmx_VKPkqU&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=55&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/Lvmx_VKPkqU/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLAShHOZniJYqNly3vlBpcWWP9qsNw",
@@ -504,7 +504,7 @@
     {
       "numero": 56,
       "nome": "casa 56",
-      "titulo": "Simple House | House design idea |  9m x 9m 2Bedroom (81sqm)",
+      "titulo": "Casa simples | Ideia de design de casa | 9m x 9m 2Quarto (81m2)",
       "videoId": "PMM98jKiAvQ",
       "url": "https://www.youtube.com/watch?v=PMM98jKiAvQ&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=56&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/PMM98jKiAvQ/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLAog0IiA8RTu_yEfySL8HiwiJp80A",
@@ -513,7 +513,7 @@
     {
       "numero": 57,
       "nome": "casa 57",
-      "titulo": "Beautiful Simple House Design with Swimming pool | 8m x 11m (2Bedroom)",
+      "titulo": "Design de casa simples bonita com piscina | 8m x 11m (2Quarto)",
       "videoId": "mTClaEclXDc",
       "url": "https://www.youtube.com/watch?v=mTClaEclXDc&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=57&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/mTClaEclXDc/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLAirQMuJlzZQ_rTL9PFVf2LzzQT2w",
@@ -522,7 +522,7 @@
     {
       "numero": 58,
       "nome": "casa 58",
-      "titulo": "Modern House Design | 2Storey House 7m x 9m (3Bedrooms)",
+      "titulo": "Design de casa moderna | 2Storey House 7m x 9m (3Quartos)",
       "videoId": "G4xFNhrf384",
       "url": "https://www.youtube.com/watch?v=G4xFNhrf384&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=58&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/G4xFNhrf384/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLAoq_MVPax_xvdkK5ACeZX1lV2u3Q",
@@ -531,7 +531,7 @@
     {
       "numero": 59,
       "nome": "casa 59",
-      "titulo": "Modern House | House Design idea | 9.5m x 11m with Carparking",
+      "titulo": "Casa moderna | Ideia de design de casa | 9,5m x 11m com estacionamento",
       "videoId": "INfIGrwRjk4",
       "url": "https://www.youtube.com/watch?v=INfIGrwRjk4&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=59&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/INfIGrwRjk4/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLALo6QjmWu7RjG7X14N7FvaAKsReA",
@@ -540,7 +540,7 @@
     {
       "numero": 60,
       "nome": "casa 60",
-      "titulo": "Simple House | House Design idea 9.5m x 5m (Box Type)",
+      "titulo": "Casa simples | Ideia de design de casa 9,5m x 5m (tipo de caixa)",
       "videoId": "VKbhWaDZkvw",
       "url": "https://www.youtube.com/watch?v=VKbhWaDZkvw&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=60&pp=iAQB0gcJCTAMAYcqIYzvmAkA",
       "thumbnail": "https://i.ytimg.com/vi/VKbhWaDZkvw/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLAskLfKNmmEr4u24Ea5jbfntBhz7w",
@@ -549,7 +549,7 @@
     {
       "numero": 61,
       "nome": "casa 61",
-      "titulo": "Modern House | House Design idea | 11m x 15m 3Bedroom with 2carparking",
+      "titulo": "Casa moderna | Ideia de design de casa | 11m x 15m 3Quarto com 2carparking",
       "videoId": "zaBT_GuSvUQ",
       "url": "https://www.youtube.com/watch?v=zaBT_GuSvUQ&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=61&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/zaBT_GuSvUQ/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLAKqEVUrHGCf42jTA07vJaXWbRx1g",
@@ -558,7 +558,7 @@
     {
       "numero": 62,
       "nome": "casa 62",
-      "titulo": "Simple House | House Design idea |  9.2m x 12m 3Bedrooms (110sqm)",
+      "titulo": "Casa simples | Ideia de design de casa | 9.2m x 12m 3Quartos (110sqm)",
       "videoId": "ki66rpae8Bw",
       "url": "https://www.youtube.com/watch?v=ki66rpae8Bw&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=62&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/ki66rpae8Bw/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLDc-VnkC2I7P6VzcTF9lu7mWimqxQ",
@@ -567,7 +567,7 @@
     {
       "numero": 63,
       "nome": "casa 63",
-      "titulo": "Simple House | House Design idea | 9.7m x 11m (2Bedroom)",
+      "titulo": "Casa Simples | Ideia de design de casa | 9.7m x 11m (2Quarto)",
       "videoId": "USgx1gG5RIE",
       "url": "https://www.youtube.com/watch?v=USgx1gG5RIE&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=63&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/USgx1gG5RIE/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLC8MSFHGRVOOEfe1Nm7nOCmbBvhUQ",
@@ -576,7 +576,7 @@
     {
       "numero": 64,
       "nome": "casa 64",
-      "titulo": "Modern House | House Design idea | 11m x 12m (132sqm) | 3Bedrooms",
+      "titulo": "Modern House | Ideia de design de casa | 11m x 12m (132sqm) | 3Quartos",
       "videoId": "659VswiTyRc",
       "url": "https://www.youtube.com/watch?v=659VswiTyRc&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=64&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/659VswiTyRc/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLBlWJwSQArAffzboho3tRL4MM6aIQ",
@@ -585,7 +585,7 @@
     {
       "numero": 65,
       "nome": "casa 65",
-      "titulo": "Modern Small House | House Design idea | 6m x 9m (54sqm) | 2Bedroom",
+      "titulo": "Casa Pequena Moderna | Ideia de design de casa | 6m x 9m (54m2) | 2Quarto",
       "videoId": "EFIPU9-KSZw",
       "url": "https://www.youtube.com/watch?v=EFIPU9-KSZw&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=65&pp=iAQB0gcJCTAMAYcqIYzvmAkA",
       "thumbnail": "https://i.ytimg.com/vi/EFIPU9-KSZw/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLCZFrhvgiKcYLj_EDD7vaG5E2jTtA",
@@ -594,7 +594,7 @@
     {
       "numero": 66,
       "nome": "casa 66",
-      "titulo": "Modern House | House Design idea | 8m x 13.5m (4Bedrooms)",
+      "titulo": "Casa moderna | Ideia de design de casa | 8m x 13,5m (4Quartos)",
       "videoId": "8zBZRQZF8_4",
       "url": "https://www.youtube.com/watch?v=8zBZRQZF8_4&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=66&pp=iAQB0gcJCTAMAYcqIYzvmAkA",
       "thumbnail": "https://i.ytimg.com/vi/8zBZRQZF8_4/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLAKpjuwsGf9XsA6uSLyPP0naCRF6Q",
@@ -603,7 +603,7 @@
     {
       "numero": 67,
       "nome": "casa 67",
-      "titulo": "Modern House | House Design idea | 9m x 12m (3Bedrooms)",
+      "titulo": "Casa moderna | Ideia de design de casa | 9m x 12m (3Quartos)",
       "videoId": "eSuUnwjS6JE",
       "url": "https://www.youtube.com/watch?v=eSuUnwjS6JE&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=67&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/eSuUnwjS6JE/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLBluCQsqJRSvEidDMimHr2KQCZPPw",
@@ -612,7 +612,7 @@
     {
       "numero": 68,
       "nome": "casa 68",
-      "titulo": "Modern small house | House Design idea |  6.2m x 7.5m (2Bedroom)",
+      "titulo": "Casa pequena moderna | Ideia de design de casa | 6,2m x 7,5m (2Quarto)",
       "videoId": "7ylQMxLPVhI",
       "url": "https://www.youtube.com/watch?v=7ylQMxLPVhI&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=68&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/7ylQMxLPVhI/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLAW8kpEw9AWnU5f6Q8KpS4Zzldveg",
@@ -621,7 +621,7 @@
     {
       "numero": 69,
       "nome": "casa 69",
-      "titulo": "Modern and Small House Design |  2storey 4.5m x 7m (2Bedroom)",
+      "titulo": "Design de casa moderna e pequena | 2storyy 4.5m x 7m (2Quarto)",
       "videoId": "MnVlGAO8zuc",
       "url": "https://www.youtube.com/watch?v=MnVlGAO8zuc&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=69&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/MnVlGAO8zuc/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLAT9raCggx7JGpqh8fRPsosd1Dyrg",
@@ -630,7 +630,7 @@
     {
       "numero": 70,
       "nome": "casa 70",
-      "titulo": "Simple and Modern House | 7.5m x 11m with 2Bedroom",
+      "titulo": "Casa simples e moderna | 7.5m x 11m com 2Quartos",
       "videoId": "e2RQGHgURqw",
       "url": "https://www.youtube.com/watch?v=e2RQGHgURqw&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=70&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/e2RQGHgURqw/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLC8aqDE9MeJcL5hTztd1za-q-8l_w",
@@ -639,7 +639,7 @@
     {
       "numero": 71,
       "nome": "casa 71",
-      "titulo": "Modern House Design |  9.7m x 7.2m House Plan with 2Bedroom",
+      "titulo": "Design de casa moderna | 9.7m x 7.2m Plano de casa com 2Quartos",
       "videoId": "tROVyw6oIVc",
       "url": "https://www.youtube.com/watch?v=tROVyw6oIVc&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=71&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/tROVyw6oIVc/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLA4gxlWGI-NTd_kI48lRlAqExSnNQ",
@@ -648,7 +648,7 @@
     {
       "numero": 72,
       "nome": "casa 72",
-      "titulo": "Simple House | House Design idea | 7m x 12m (2Bedroom)",
+      "titulo": "Casa simples | Ideia de design de casa | 7m x 12m (2Quartos)",
       "videoId": "lTjgodTcBbw",
       "url": "https://www.youtube.com/watch?v=lTjgodTcBbw&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=72&pp=iAQB0gcJCTAMAYcqIYzvmAkA",
       "thumbnail": "https://i.ytimg.com/vi/lTjgodTcBbw/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLClkCFDkIN0NFrmEyINK6jCpLJdkQ",
@@ -657,7 +657,7 @@
     {
       "numero": 73,
       "nome": "casa 73",
-      "titulo": "Modern House | House Design idea |  6.9m x 9m with Swimming pool",
+      "titulo": "Modern House | Ideia de design de casa | 6,9m x 9m com piscina",
       "videoId": "uoEDgpUG16M",
       "url": "https://www.youtube.com/watch?v=uoEDgpUG16M&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=73&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/uoEDgpUG16M/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLCUsKXOBUNYDOZAE6Tf0ow69ekF5g",
@@ -666,7 +666,7 @@
     {
       "numero": 74,
       "nome": "casa 74",
-      "titulo": "Modern House Design idea | 7.5m x 9m (2Bedroom)",
+      "titulo": "Ideia de design de casa moderna | 7.5m x 9m (2Bedroom)",
       "videoId": "TUM-AZm7L9I",
       "url": "https://www.youtube.com/watch?v=TUM-AZm7L9I&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=74&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/TUM-AZm7L9I/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLA7Wt5OWOcgI-xh985dqy7cdfaa6g",
@@ -675,7 +675,7 @@
     {
       "numero": 75,
       "nome": "casa 75",
-      "titulo": "Modern House Design idea | 2storey 6m x 7m 3Bedrooms",
+      "titulo": "Ideia moderna de design de casa | 2storey 6m x 7m 3Bedrooms",
       "videoId": "S6NOnxZJ66k",
       "url": "https://www.youtube.com/watch?v=S6NOnxZJ66k&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=75&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/S6NOnxZJ66k/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLCq7eZZv6gSuPnm1Z4VqHtkBXq-Cg",
@@ -684,7 +684,7 @@
     {
       "numero": 76,
       "nome": "casa 76",
-      "titulo": "Modern House | House Design idea 10m x 10m | 3Bedrooms",
+      "titulo": "Casa moderna | Ideia de design de casa 10m x 10m | 3Quartos",
       "videoId": "fTo4sqgAPmk",
       "url": "https://www.youtube.com/watch?v=fTo4sqgAPmk&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=76&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/fTo4sqgAPmk/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLCbDu_UjaqjiCCSl25nc7Cvd2roFw",
@@ -693,7 +693,7 @@
     {
       "numero": 77,
       "nome": "casa 77",
-      "titulo": "Simple House | House Design idea | 7m x 11m 3Bedrooms",
+      "titulo": "Casa simples | Ideia de design de casa | 7m x 11m 3Quartos",
       "videoId": "luBu1RCvmyM",
       "url": "https://www.youtube.com/watch?v=luBu1RCvmyM&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=77&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/luBu1RCvmyM/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLCxpEZSwJpCy8cItXaWUo9m2Y1Bxg",
@@ -702,7 +702,7 @@
     {
       "numero": 78,
       "nome": "casa 78",
-      "titulo": "Modern House | House Design idea | 11m x 16m with 4Bedrooms",
+      "titulo": "Casa moderna | Ideia de design de casa | 11m x 16m com 4Quartos",
       "videoId": "3GBq8A6WLJc",
       "url": "https://www.youtube.com/watch?v=3GBq8A6WLJc&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=78&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/3GBq8A6WLJc/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLDGSQcPCFSJ3IVLHNY2WatsXKMHEQ",
@@ -711,7 +711,7 @@
     {
       "numero": 79,
       "nome": "casa 79",
-      "titulo": "Simple and Modern House | 9m x 14m (126sqm)  | 3bedrooms",
+      "titulo": "Casa simples e moderna | 9m x 14m (126m2) | 3quartos",
       "videoId": "XP8QYkYrw_Y",
       "url": "https://www.youtube.com/watch?v=XP8QYkYrw_Y&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=79&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/XP8QYkYrw_Y/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLA7Lwi2Bxl4VF9SI2JUZi8gQ-bnlQ",
@@ -720,7 +720,7 @@
     {
       "numero": 80,
       "nome": "casa 80",
-      "titulo": "Simple and modern House | 6m x 11m (66sqm) Box type",
+      "titulo": "Casa simples e moderna | 6m x 11m (66sqm) Tipo de caixa",
       "videoId": "qCAfOxTEsPg",
       "url": "https://www.youtube.com/watch?v=qCAfOxTEsPg&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=80&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/qCAfOxTEsPg/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLA97NKoIWhMFcKk_6or7Vw1eaDc6w",
@@ -729,7 +729,7 @@
     {
       "numero": 81,
       "nome": "casa 81",
-      "titulo": "Modern House Design | 10m x 12m with swimming pool | 3Bedrooms",
+      "titulo": "Design de casa moderna | 10m x 12m com piscina | 3Quartos",
       "videoId": "YpXX815i6Xo",
       "url": "https://www.youtube.com/watch?v=YpXX815i6Xo&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=81&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/YpXX815i6Xo/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLB4JIaReoPiAxLLAAPprV2IGrCF-A",
@@ -738,7 +738,7 @@
     {
       "numero": 82,
       "nome": "casa 82",
-      "titulo": "Modern and Small House | 2Bedroom | 7.5m x 9m House plan",
+      "titulo": "Casa pequena e moderna | 2Quarto | 7.5m x 9m Plano da casa",
       "videoId": "QV-tCifjZ_g",
       "url": "https://www.youtube.com/watch?v=QV-tCifjZ_g&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=82&pp=iAQB0gcJCTAMAYcqIYzvmAkA",
       "thumbnail": "https://i.ytimg.com/vi/QV-tCifjZ_g/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLBurWAJBmTZ9btMvgpukSWfN1--BQ",
@@ -747,7 +747,7 @@
     {
       "numero": 83,
       "nome": "casa 83",
-      "titulo": "Modern and Simple House idea | 7m x 10m 2Bedroom",
+      "titulo": "Ideia de casa moderna e simples | 7m x 10m 2Quarto",
       "videoId": "4hiU6uKb2cg",
       "url": "https://www.youtube.com/watch?v=4hiU6uKb2cg&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=83&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/4hiU6uKb2cg/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLAmkVQrIdnKprdmWV48ioShX76qAA",
@@ -756,7 +756,7 @@
     {
       "numero": 84,
       "nome": "casa 84",
-      "titulo": "Simple House Design | 8.5m x 12m House plan (3Bedrooms)",
+      "titulo": "Design de casa simples | 8,5m x 12m Plano da casa (3Quartos)",
       "videoId": "pIuaIhfRIkw",
       "url": "https://www.youtube.com/watch?v=pIuaIhfRIkw&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=84&pp=iAQB0gcJCTAMAYcqIYzvmAkA",
       "thumbnail": "https://i.ytimg.com/vi/pIuaIhfRIkw/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLD295xvkcWsrmgTkfoCX3eB4MylCw",
@@ -765,7 +765,7 @@
     {
       "numero": 85,
       "nome": "casa 85",
-      "titulo": "Modern 2storey House | 7m x 9m 3Bedrooms (Dream House)",
+      "titulo": "Modern 2storey House | 7m x 9m 3Quartos (Casa dos Sonhos)",
       "videoId": "fEEY-YQLrl0",
       "url": "https://www.youtube.com/watch?v=fEEY-YQLrl0&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=85&pp=iAQB0gcJCTAMAYcqIYzvmAkA",
       "thumbnail": "https://i.ytimg.com/vi/fEEY-YQLrl0/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLCXBXtZyRfAZku5IW3JNsPD2o82aA",
@@ -774,7 +774,7 @@
     {
       "numero": 86,
       "nome": "casa 86",
-      "titulo": "Modern Dream House | 9m x 12m House plan (3Bedrooms)",
+      "titulo": "Modern Dream House | 9m x 12m Plano da casa (3Quartos)",
       "videoId": "Dy88PU9gods",
       "url": "https://www.youtube.com/watch?v=Dy88PU9gods&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=86&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/Dy88PU9gods/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLBg8wENBNtg5ZbUOoLvOiR09HcJcQ",
@@ -783,7 +783,7 @@
     {
       "numero": 87,
       "nome": "casa 87",
-      "titulo": "The Best Modern House Design | 15m x 17m 2storey with 6Bedrooms",
+      "titulo": "O melhor design de casa moderna | 15m x 17m 2storyy com 6Quartos",
       "videoId": "B0O-UWW5xno",
       "url": "https://www.youtube.com/watch?v=B0O-UWW5xno&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=87&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/B0O-UWW5xno/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLCImeQCDnLvFr6uO16uWpj5vbelEw",
@@ -792,7 +792,7 @@
     {
       "numero": 88,
       "nome": "casa 88",
-      "titulo": "Perfect House Design | Modern House 6m x 11m (3Bedrooms)",
+      "titulo": "Perfect House Design | Casa Moderna 6m x 11m (3Quartos)",
       "videoId": "gh-iDTNyufQ",
       "url": "https://www.youtube.com/watch?v=gh-iDTNyufQ&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=88&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/gh-iDTNyufQ/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLCxWeI937T0q4G1GX4lUGy0kNOaMA",
@@ -801,7 +801,7 @@
     {
       "numero": 89,
       "nome": "casa 89",
-      "titulo": "Modern Small House | House plan 5m x 8m (Simple House)",
+      "titulo": "Modern Small House | Plano da casa 5m x 8m (Casa Simples)",
       "videoId": "jfHN15TxUyY",
       "url": "https://www.youtube.com/watch?v=jfHN15TxUyY&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=89&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/jfHN15TxUyY/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLA8cOPwQCD9nDRT4EihZYDq-_rJCw",
@@ -810,7 +810,7 @@
     {
       "numero": 90,
       "nome": "casa 90",
-      "titulo": "Simple and Modern small house | 5m x 9m 2Bedroom (Small space)",
+      "titulo": "Casa pequena simples e moderna | 5m x 9m 2Quarto (pequeno espaço)",
       "videoId": "7LHw_JXqxhc",
       "url": "https://www.youtube.com/watch?v=7LHw_JXqxhc&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=90&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/7LHw_JXqxhc/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLBnrfQTDTtPW2EFNy7dFP3CcDJP9Q",
@@ -819,7 +819,7 @@
     {
       "numero": 91,
       "nome": "casa 91",
-      "titulo": "Amazing Modern House Design with Car parking | 10m x 12m (3Bedrooms)",
+      "titulo": "Design de casa moderna incrível com estacionamento | 10m x 12m (3Quartos)",
       "videoId": "XxTKjT0h0vk",
       "url": "https://www.youtube.com/watch?v=XxTKjT0h0vk&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=91&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/XxTKjT0h0vk/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLAozPIvqfUq0W0_nJPtvH97ylQ6lQ",
@@ -828,7 +828,7 @@
     {
       "numero": 92,
       "nome": "casa 92",
-      "titulo": "Simple House | House Design idea |  7m x 10m (Simple and Modern)",
+      "titulo": "Casa Simples | Ideia de design de casa | 7m x 10m (Simples e Moderno)",
       "videoId": "HtaU9uD18RA",
       "url": "https://www.youtube.com/watch?v=HtaU9uD18RA&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=92&pp=iAQB0gcJCTAMAYcqIYzvmAkA",
       "thumbnail": "https://i.ytimg.com/vi/HtaU9uD18RA/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLBeMn5QcRPk57dZJgaXHrUipNTYNg",
@@ -837,7 +837,7 @@
     {
       "numero": 93,
       "nome": "casa 93",
-      "titulo": "Experience the LUXURY of a 9m x 9m Modern House with Swimming Pool | 3Bedrooms",
+      "titulo": "Experimente o LUXO de uma casa moderna de 9m x 9m com piscina | 3Quartos",
       "videoId": "e5NaLU2tQXs",
       "url": "https://www.youtube.com/watch?v=e5NaLU2tQXs&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=93&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/e5NaLU2tQXs/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLBtnax1xlKSZN6rsWcFQrXHA-d0sQ",
@@ -846,7 +846,7 @@
     {
       "numero": 94,
       "nome": "casa 94",
-      "titulo": "Simple House House | 7.2m x 7.2m Box Type | 2Bedrooms",
+      "titulo": "Casa Simples | 7.2m x 7.2m Tipo de Caixa | 2Quartos",
       "videoId": "OyZJtwIbVmc",
       "url": "https://www.youtube.com/watch?v=OyZJtwIbVmc&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=94&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/OyZJtwIbVmc/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLA_Zc5WeuATruygeMmJrMREk6XWAg",
@@ -855,7 +855,7 @@
     {
       "numero": 95,
       "nome": "casa 95",
-      "titulo": "Modern and Simple House Design | 7m x 9m | Two Bedrooms House",
+      "titulo": "Design de casa moderna e simples | 7m x 9m | Casa de dois quartos",
       "videoId": "1RxIeyZhUWg",
       "url": "https://www.youtube.com/watch?v=1RxIeyZhUWg&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=95&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/1RxIeyZhUWg/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLBY7lNdWR8sB0nwaRT5sGj2ZYp7uw",
@@ -864,7 +864,7 @@
     {
       "numero": 96,
       "nome": "casa 96",
-      "titulo": "House Design 8m x 9m 3Bedrooms (2storey)",
+      "titulo": "Projeto da casa 8m x 9m 3Quartos (2story)",
       "videoId": "Q9pl-V2-DlY",
       "url": "https://www.youtube.com/watch?v=Q9pl-V2-DlY&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=96&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/Q9pl-V2-DlY/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLBwBZTDb-F75qKznPKw0xVCeE220A",
@@ -873,7 +873,7 @@
     {
       "numero": 97,
       "nome": "casa 97",
-      "titulo": "Simple House | House Design idea |  6m x 9m with Swimming pool (5Bedrooms)",
+      "titulo": "Casa simples | Ideia de design de casa | 6m x 9m com piscina (5Quartos)",
       "videoId": "0OAuau2e7-A",
       "url": "https://www.youtube.com/watch?v=0OAuau2e7-A&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=97&pp=iAQB0gcJCTAMAYcqIYzvmAkA",
       "thumbnail": "https://i.ytimg.com/vi/0OAuau2e7-A/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLCqh6AOU1qsBR9okifM3y0h61qceQ",
@@ -882,7 +882,7 @@
     {
       "numero": 98,
       "nome": "casa 98",
-      "titulo": "Modern House Design | 10m x 15m House plan | 4Bedrooms",
+      "titulo": "Design de casa moderna | 10m x 15m Plano da casa | 4Quartos",
       "videoId": "aFijIK-kYZ4",
       "url": "https://www.youtube.com/watch?v=aFijIK-kYZ4&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=98&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/aFijIK-kYZ4/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLATM18BU9AkZQ9VlENjgIGmjZF4MQ",
@@ -891,7 +891,7 @@
     {
       "numero": 99,
       "nome": "casa 99",
-      "titulo": "Simple House Design idea | 12 x12 Meters 3Bedrooms | 109sqm Home tour",
+      "titulo": "Ideia de design de casa simples | 12 x12 Metros 3Quartos | 109sqm Home tour",
       "videoId": "oZ52CDwjpmw",
       "url": "https://www.youtube.com/watch?v=oZ52CDwjpmw&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=99&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/oZ52CDwjpmw/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLCCVb4n64cdZq3jucJx8R8t1Brifg",
@@ -900,7 +900,7 @@
     {
       "numero": 100,
       "nome": "casa 100",
-      "titulo": "Simple House | 9 x 12 Meters House Design idea | 3Bedrooms",
+      "titulo": "Casa Simples | 9 x 12 Metros Ideia de design de casa | 3Quartos",
       "videoId": "xVOi8ELu_8Y",
       "url": "https://www.youtube.com/watch?v=xVOi8ELu_8Y&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=100&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/xVOi8ELu_8Y/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLA7RanbFAUCD_iYPMAPa1zMK5csZQ",
@@ -909,7 +909,7 @@
     {
       "numero": 101,
       "nome": "casa 101",
-      "titulo": "Modern House | 2Storey House Design | 7 x 9 Meters (4Bedrooms)",
+      "titulo": "Casa moderna | 2Storey House Design | 7 x 9 Metros (4Quartos)",
       "videoId": "Bw8wUvUvTww",
       "url": "https://www.youtube.com/watch?v=Bw8wUvUvTww&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=101&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/Bw8wUvUvTww/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLCWzlqVAcd6HEL-dSbjYzhgte1djw",
@@ -1107,7 +1107,7 @@
     {
       "numero": 123,
       "nome": "casa 123",
-      "titulo": "Simple and Modern House Design | 9 x 20 Meters | 3Bedrooms House",
+      "titulo": "Design de casa simples e moderno | 9 x 20 metros | 3Bedrooms House",
       "videoId": "C8VhqswPqPQ",
       "url": "https://www.youtube.com/watch?v=C8VhqswPqPQ&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=123&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/C8VhqswPqPQ/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLC3KnFAjQWX5ri4xYnShV-KtLRRBA",
@@ -1116,7 +1116,7 @@
     {
       "numero": 124,
       "nome": "casa 124",
-      "titulo": "Modern House Design 2Storey | 7.5m x 9.5m | 4Bedroom House Tour",
+      "titulo": "Modern House Design 2Storey | 7.5m x 9,5m | 4Bedroom House Tour",
       "videoId": "Qfz2IpKpxyg",
       "url": "https://www.youtube.com/watch?v=Qfz2IpKpxyg&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=124&pp=iAQB0gcJCTAMAYcqIYzvmAkA",
       "thumbnail": "https://i.ytimg.com/vi/Qfz2IpKpxyg/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLB8wKAZNTNmCnGL3RU95bKUoHV1TQ",
@@ -1125,7 +1125,7 @@
     {
       "numero": 125,
       "nome": "casa 125",
-      "titulo": "Modern House Design 9.3 x 12 Meters",
+      "titulo": "Design de casa moderna 9.3 x 12 metros",
       "videoId": "A-K9J2F-igE",
       "url": "https://www.youtube.com/watch?v=A-K9J2F-igE&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=125&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/A-K9J2F-igE/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLCIOs6vVn4OXs4d1lkU_OOJbgCGvw",
@@ -1134,7 +1134,7 @@
     {
       "numero": 126,
       "nome": "casa 126",
-      "titulo": "Modern House Design idea | 9 x 11 Meters | Simple and Modern",
+      "titulo": "Ideia de design de casa moderna | 9 x 11 metros | Simples e Moderno",
       "videoId": "Qnbm2mk9Nik",
       "url": "https://www.youtube.com/watch?v=Qnbm2mk9Nik&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=126&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/Qnbm2mk9Nik/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLCi_nkaEMhoyg_dJL7LM0bUaA7BAw",
@@ -1143,7 +1143,7 @@
     {
       "numero": 127,
       "nome": "casa 127",
-      "titulo": "Simple and Modern Small House Design | 5.2 x 7.5 Meters | 2Storey House",
+      "titulo": "Design de casa pequena simples e moderna | 5,2 x 7,5 metros | 2Storey House",
       "videoId": "EzUoJ2TuxVw",
       "url": "https://www.youtube.com/watch?v=EzUoJ2TuxVw&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=127&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/EzUoJ2TuxVw/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLDDOvbXKFthn8QNvBwiT1WEKaKqLA",
@@ -1152,7 +1152,7 @@
     {
       "numero": 128,
       "nome": "casa 128",
-      "titulo": "Modern House Design idea | 9 x 11 Meters | Three Bedrooms",
+      "titulo": "Ideia moderna de design de casa | 9 x 11 metros | Três quartos",
       "videoId": "vJDlv35IHg8",
       "url": "https://www.youtube.com/watch?v=vJDlv35IHg8&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=128&pp=iAQB0gcJCTAMAYcqIYzvmAkA",
       "thumbnail": "https://i.ytimg.com/vi/vJDlv35IHg8/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLCu-dv1GfE7MWNfm8ya56epsHOTEw",
@@ -1161,7 +1161,7 @@
     {
       "numero": 129,
       "nome": "casa 129",
-      "titulo": "See Inside This Amazing Dream Home | 4Bedrooms House Design",
+      "titulo": "Veja Dentro Desta Incrível Casa De Sonho | 4Bedrooms House Design",
       "videoId": "n3RsgVDKeyc",
       "url": "https://www.youtube.com/watch?v=n3RsgVDKeyc&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=129&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/n3RsgVDKeyc/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLBg1Fa-onz51FOVVHb5pajGxpn_Hw",
@@ -1170,7 +1170,7 @@
     {
       "numero": 130,
       "nome": "casa 130",
-      "titulo": "Simple and Modern House Design idea | 12 x 18 Meters | 4Bedrooms House",
+      "titulo": "Ideia de design de casa simples e moderna | 12 x 18 metros | 4Bedrooms House",
       "videoId": "3JjmQH8Y8OU",
       "url": "https://www.youtube.com/watch?v=3JjmQH8Y8OU&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=130&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/3JjmQH8Y8OU/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLBDgdNv9CSkWAi_Sd4IBEHMVm80OA",
@@ -1179,7 +1179,7 @@
     {
       "numero": 131,
       "nome": "casa 131",
-      "titulo": "Amazing Luxury House Design | 7.5 x 9 Meters 3Bedrooms (House Tour)",
+      "titulo": "Design de casa de luxo incrível | 7,5 x 9 metros 3Quartos (Excursão à casa)",
       "videoId": "q5cPRzZlO70",
       "url": "https://www.youtube.com/watch?v=q5cPRzZlO70&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=131&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/q5cPRzZlO70/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLA_dUjfKdoOInPLB37VqOXX2vwSPg",
@@ -1188,7 +1188,7 @@
     {
       "numero": 132,
       "nome": "casa 132",
-      "titulo": "Modern House Design One Storey | 9 x 12 Meters 3Bedrooms",
+      "titulo": "Modern House Design One Storey | 9 x 12 Metros 3Quartos",
       "videoId": "bwj0SQfHVao",
       "url": "https://www.youtube.com/watch?v=bwj0SQfHVao&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=132&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/bwj0SQfHVao/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLBNVPAjsF7aA5RfFyh6JFIWgTl_qQ",
@@ -1197,7 +1197,7 @@
     {
       "numero": 133,
       "nome": "casa 133",
-      "titulo": "Modern House Design idea | 10 x 12 Meters | Three Bedrooms House",
+      "titulo": "Ideia moderna de design de casa | 10 x 12 metros | Casa de três quartos",
       "videoId": "UVcNxAEgc6A",
       "url": "https://www.youtube.com/watch?v=UVcNxAEgc6A&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=133&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/UVcNxAEgc6A/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLCNpHFBLcn4305OPIGgvMV5PVxqaA",
@@ -1206,7 +1206,7 @@
     {
       "numero": 134,
       "nome": "casa 134",
-      "titulo": "Modern House Design idea | 6 x 9 Meters (Small and Modern) with 2Bedrooms",
+      "titulo": "Ideia de design de casa moderna | 6 x 9 metros (pequeno e moderno) com 2 quartos",
       "videoId": "k8arrOHcC7U",
       "url": "https://www.youtube.com/watch?v=k8arrOHcC7U&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=134&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/k8arrOHcC7U/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLAde689tImFUXljWdO6uIsZTZPmLQ",
@@ -1215,7 +1215,7 @@
     {
       "numero": 135,
       "nome": "casa 135",
-      "titulo": "Simple House Design idea |  8.5m x 15m with 4Bedrooms (Simple Life)",
+      "titulo": "Ideia de design de casa simples | 8,5m x 15m com 4Quartos (Vida Simples)",
       "videoId": "CzVFanKntzI",
       "url": "https://www.youtube.com/watch?v=CzVFanKntzI&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=135&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/CzVFanKntzI/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLCKHvpT-NFnYoipXlXhZ78VK7pfrQ",
@@ -1224,7 +1224,7 @@
     {
       "numero": 136,
       "nome": "casa 136",
-      "titulo": "Simple and Modern House Design Idea | 7.4 x 13 Meters 2Bedrooms (Box Type)",
+      "titulo": "Ideia de design de casa simples e moderna | 7,4 x 13 metros 2Quartos (tipo de caixa)",
       "videoId": "fZbr4UrTWd0",
       "url": "https://www.youtube.com/watch?v=fZbr4UrTWd0&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=136&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/fZbr4UrTWd0/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLA2gKv8Lk2jvuYIUSPS6_TjBa_lLQ",
@@ -1233,7 +1233,7 @@
     {
       "numero": 137,
       "nome": "casa 137",
-      "titulo": "2Storey House Design | Modern House (4Bedrooms)",
+      "titulo": "2Storey House Design | Casa Moderna (4Quartos)",
       "videoId": "5aOXa40tLf4",
       "url": "https://www.youtube.com/watch?v=5aOXa40tLf4&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=137&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/5aOXa40tLf4/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLCYcpODxSn10osHrW4LtWOYDvXGHQ",
@@ -1242,7 +1242,7 @@
     {
       "numero": 138,
       "nome": "casa 138",
-      "titulo": "Modern Small House Design | 6 x 7 Meters 2Storey 3Bedrooms",
+      "titulo": "Design moderno de casa pequena | 6 x 7 metros 2Storey 3Quartos",
       "videoId": "yTzbVZK6qLo",
       "url": "https://www.youtube.com/watch?v=yTzbVZK6qLo&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=138&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/yTzbVZK6qLo/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLB63NMtkBqVGnkk4bBABBU5ku39rg",
@@ -1251,7 +1251,7 @@
     {
       "numero": 139,
       "nome": "casa 139",
-      "titulo": "Modern Small House Design |  6.2 x 9.2 Meters (4Bedrooms)",
+      "titulo": "Design moderno de casa pequena | 6,2 x 9,2 metros (4 Quartos)",
       "videoId": "3DSUnad-QMw",
       "url": "https://www.youtube.com/watch?v=3DSUnad-QMw&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=139&pp=iAQB0gcJCTAMAYcqIYzvmAkA",
       "thumbnail": "https://i.ytimg.com/vi/3DSUnad-QMw/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLDoRDpGHwft_3E_K5pKBzCBQMqMtw",
@@ -1260,7 +1260,7 @@
     {
       "numero": 140,
       "nome": "casa 140",
-      "titulo": "Simple and Modern House | 7.5 x 9 Meters with 2Bedroom (Simple life)",
+      "titulo": "Casa simples e moderna | 7,5 x 9 metros com 2 quartos (vida simples)",
       "videoId": "jspqeqcCq7k",
       "url": "https://www.youtube.com/watch?v=jspqeqcCq7k&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=140&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/jspqeqcCq7k/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLBCSxpvdeOSXoFRcOD5FVgHntE5uA",
@@ -1269,7 +1269,7 @@
     {
       "numero": 141,
       "nome": "casa 141",
-      "titulo": "Modern House Design idea | 7m x 10m 4Bedrooms | 2Storey House",
+      "titulo": "Ideia moderna de design de casa | 7m x 10m 4Quartos | 2Storey House",
       "videoId": "an8u1va4jjU",
       "url": "https://www.youtube.com/watch?v=an8u1va4jjU&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=141&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/an8u1va4jjU/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLDb0TAnRsmY3D-rDMvjF19nZ2sKFQ",
@@ -1278,7 +1278,7 @@
     {
       "numero": 142,
       "nome": "casa 142",
-      "titulo": "Beautiful Modern House Design idea | 11 x 16 Meters | 4Bedrooms House",
+      "titulo": "Bela ideia de design de casa moderna | 11 x 16 metros | 4Bedrooms House",
       "videoId": "GEV89Jtizl0",
       "url": "https://www.youtube.com/watch?v=GEV89Jtizl0&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=142&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/GEV89Jtizl0/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLBXhDMaDuXsipS6NKpY0WmABRbywQ",
@@ -1287,7 +1287,7 @@
     {
       "numero": 143,
       "nome": "casa 143",
-      "titulo": "2Storey Modern House Design idea | 7.5 x 9 Meters with 4Bedrooms (Luxury House )",
+      "titulo": "2Storey Modern House Design idea | 7,5 x 9 Metros com 4Quartos (Casa de Luxo)",
       "videoId": "XxjM7sUc21k",
       "url": "https://www.youtube.com/watch?v=XxjM7sUc21k&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=143&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/XxjM7sUc21k/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLAhweia4QYKR3UZ7Je4LZy5esmI-Q",
@@ -1296,7 +1296,7 @@
     {
       "numero": 144,
       "nome": "casa 144",
-      "titulo": "Modern House Design 7.5 x 10 Meters | 2 Bedroom Minimalist",
+      "titulo": "Design de casa moderna 7,5 x 10 metros | Minimalista de 2 quartos",
       "videoId": "kLQNL5rdut8",
       "url": "https://www.youtube.com/watch?v=kLQNL5rdut8&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=144&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/kLQNL5rdut8/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLBH3JmjpottN2_BMTHraxGGZdqDAw",
@@ -1305,7 +1305,7 @@
     {
       "numero": 145,
       "nome": "casa 145",
-      "titulo": "Modern Small House Design | 6 x 9 Meters (Have a nice day)",
+      "titulo": "Design de casa pequena moderna | 6 x 9 metros (tenha um bom dia)",
       "videoId": "J13vdZsPud0",
       "url": "https://www.youtube.com/watch?v=J13vdZsPud0&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=145&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/J13vdZsPud0/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLAKTttn2LT6GehriRVleSXD01HbSA",
@@ -1314,7 +1314,7 @@
     {
       "numero": 146,
       "nome": "casa 146",
-      "titulo": "Modern House Design 9.5 x 11m 2Bedrooms | Flat Roof & Minimalist Aesthetic",
+      "titulo": "Modern House Design 9,5 x 11m 2Quartos | Telhado Plano e Estética minimalista",
       "videoId": "zdkI8_zacuc",
       "url": "https://www.youtube.com/watch?v=zdkI8_zacuc&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=146&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/zdkI8_zacuc/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLDq6IwVfUz4wIKi60e8k7FWr4Q8fg",
@@ -1323,7 +1323,7 @@
     {
       "numero": 147,
       "nome": "casa 147",
-      "titulo": "Perfect Modern House Design 2 Storey 2Bedroom House on a Compact Lot",
+      "titulo": "Perfect Modern House Design 2 Storey 2Bedroom Casa em um lote compacto",
       "videoId": "SO4W-iiO0TQ",
       "url": "https://www.youtube.com/watch?v=SO4W-iiO0TQ&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=147&pp=iAQB0gcJCTAMAYcqIYzvmAkA",
       "thumbnail": "https://i.ytimg.com/vi/SO4W-iiO0TQ/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLCwPZCIRTtdr5BqnFnlbnEwEGJTuQ",
@@ -1332,7 +1332,7 @@
     {
       "numero": 148,
       "nome": "casa 148",
-      "titulo": "Modern Minimalist House Design | 9.2 x 12 Meters | 3 Bedrooms",
+      "titulo": "Design de casa minimalista moderna | 9,2 x 12 metros | 3 quartos",
       "videoId": "EaepI7dL99I",
       "url": "https://www.youtube.com/watch?v=EaepI7dL99I&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=148&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/EaepI7dL99I/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLBWLPU1h4uzZHTLDoQDgQ-9b_4LDw",
@@ -1341,7 +1341,7 @@
     {
       "numero": 149,
       "nome": "casa 149",
-      "titulo": "Modern House Design 9 x 11 Meters | 4Bedrooms House",
+      "titulo": "Design de casa moderna 9 x 11 metros | 4Bedrooms House",
       "videoId": "hX-q6MMc2NY",
       "url": "https://www.youtube.com/watch?v=hX-q6MMc2NY&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=149&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/hX-q6MMc2NY/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLBBRhxoWo9lzNtTTqRDghWCf1OAyw",
@@ -1350,7 +1350,7 @@
     {
       "numero": 150,
       "nome": "casa 150",
-      "titulo": "Modern House Design | 4 Bedrooms 2Storey with Complete Floor Plan (Luxury)",
+      "titulo": "Design de casa moderna | 4 quartos 2Storey com planta completa (luxo)",
       "videoId": "NgrZp6k0HEA",
       "url": "https://www.youtube.com/watch?v=NgrZp6k0HEA&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=150&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/NgrZp6k0HEA/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLBs7EWmhGJDbhnuNSXuKB7OiPg81Q",
@@ -1359,7 +1359,7 @@
     {
       "numero": 151,
       "nome": "casa 151",
-      "titulo": "Modern House Design idea | 8.5 x 12 METERS (Swimming pool)",
+      "titulo": "Ideia de design de casa moderna | 8,5 x 12 METROS (piscina)",
       "videoId": "hlEapBl2EdE",
       "url": "https://www.youtube.com/watch?v=hlEapBl2EdE&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=151&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/hlEapBl2EdE/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLB2gxfYlIgSa6LOWs44ZhfHyZPT3Q",
@@ -1368,7 +1368,7 @@
     {
       "numero": 152,
       "nome": "casa 152",
-      "titulo": "Modern 2 Bedroom House 7x11m | Minimalist Home Design (Box Type)",
+      "titulo": "Moderna Casa de 2 quartos 7x11m | Design de casa minimalista (tipo de caixa)",
       "videoId": "lpq1bJwB3Tk",
       "url": "https://www.youtube.com/watch?v=lpq1bJwB3Tk&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=152&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/lpq1bJwB3Tk/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLADK8ehU6n40yoBKWco-8P64W24KA",
@@ -1377,7 +1377,7 @@
     {
       "numero": 153,
       "nome": "casa 153",
-      "titulo": "(6x9 Meters) Modern Small House Design | 2 Bedroom House Tour",
+      "titulo": "(6x9 Metros) Design Moderno de Casa Pequena | 2 Bedroom House Tour",
       "videoId": "VhHq9c-uqgE",
       "url": "https://www.youtube.com/watch?v=VhHq9c-uqgE&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=153&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/VhHq9c-uqgE/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLDy_caTpRCYeXG2TIlKIQ7Y9AsQeA",
@@ -1386,7 +1386,7 @@
     {
       "numero": 154,
       "nome": "casa 154",
-      "titulo": "Small and Modern One-Story House | 2 Bedrooms | Floor Plan 7.5x9 Meters",
+      "titulo": "Casa de um andar pequena e moderna | 2 quartos | Floor Plan 7.5x9 Metros",
       "videoId": "cSZZYz-1nQg",
       "url": "https://www.youtube.com/watch?v=cSZZYz-1nQg&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=154&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/cSZZYz-1nQg/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLDNPIiYF2f7_vmrN9nCaDL1u9hOsw",
@@ -1395,7 +1395,7 @@
     {
       "numero": 155,
       "nome": "casa 155",
-      "titulo": "Modern Tiny House 4 x 7 Meters | Minimalist Design Tour",
+      "titulo": "Modern Tiny House 4 x 7 Metros | Excursão de design minimalista",
       "videoId": "yEnHMZVgbEc",
       "url": "https://www.youtube.com/watch?v=yEnHMZVgbEc&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=155&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/yEnHMZVgbEc/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLC-gRuj4YKboQht8XG4LW5AYEZqfQ",
@@ -1404,7 +1404,7 @@
     {
       "numero": 156,
       "nome": "casa 156",
-      "titulo": "Modern Small House 9.5x12 Meters | 3 Bedroom Contemporary Architecture",
+      "titulo": "Casa Pequena Moderna 9.5x12 Metros | 3 Quartos De Arquitetura Contemporânea",
       "videoId": "JGLJJC2hEpY",
       "url": "https://www.youtube.com/watch?v=JGLJJC2hEpY&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=156&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/JGLJJC2hEpY/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLDgv0hfjucbsDUKgAVDQQtSooaByA",
@@ -1413,7 +1413,7 @@
     {
       "numero": 157,
       "nome": "casa 157",
-      "titulo": "Modern 8 x 9 Meters House Tour | wood accents & natural light throughout",
+      "titulo": "Moderno passeio doméstico de 8 x 9 metros | acentos de madeira e luz natural por toda parte",
       "videoId": "wAqz571E8rw",
       "url": "https://www.youtube.com/watch?v=wAqz571E8rw&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=157&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/wAqz571E8rw/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLCr-OETLCEpn1bo4mvFNZhG8tr4uA",
@@ -1422,7 +1422,7 @@
     {
       "numero": 158,
       "nome": "casa 158",
-      "titulo": "Modern 2-Storey House 9x11 Meters - Exterior & Interior Tour",
+      "titulo": "Moderna Casa de 2 andares 9x11 Metros - Excursão Exterior e Interior",
       "videoId": "O3Gu11aqp0M",
       "url": "https://www.youtube.com/watch?v=O3Gu11aqp0M&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=158&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/O3Gu11aqp0M/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLCCQJZkQdI8EdXQgBXldnVWiUzoOw",
@@ -1431,7 +1431,7 @@
     {
       "numero": 159,
       "nome": "casa 159",
-      "titulo": "6x11Meters Two-Story House | Modern Home Tour with 4Bedrooms",
+      "titulo": "Casa de dois andares 6x11meters | Excursão em casa moderna com 4Quartos",
       "videoId": "f4TuFDYprQ8",
       "url": "https://www.youtube.com/watch?v=f4TuFDYprQ8&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=159&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/f4TuFDYprQ8/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLAbxEXqXXhRowwaqCRIjoybYZQntg",
@@ -1440,7 +1440,7 @@
     {
       "numero": 160,
       "nome": "casa 160",
-      "titulo": "Beautiful Modern House Design idea | 2Bedrooms House (8.2x14METERS)",
+      "titulo": "Linda ideia de design de casa moderna | 2Bedrooms House (8.2x14METERS)",
       "videoId": "oY_VfTANB58",
       "url": "https://www.youtube.com/watch?v=oY_VfTANB58&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=160&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/oY_VfTANB58/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLCyojh7du_AfyckdMmVnLv-meBS8g",
@@ -1449,7 +1449,7 @@
     {
       "numero": 161,
       "nome": "casa 161",
-      "titulo": "Modern Small House Design 5.5x8m | 3 Bedrooms Full Features, Compact Plot",
+      "titulo": "Design Moderno De Casa Pequena 5.5x8m | 3 Quartos Características Completas, Lote Compacto",
       "videoId": "B4TUdmjTez4",
       "url": "https://www.youtube.com/watch?v=B4TUdmjTez4&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=161&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/B4TUdmjTez4/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLA7wn-HIHNc_nM0Ii7dh5-kX3C_aw",
@@ -1458,7 +1458,7 @@
     {
       "numero": 162,
       "nome": "casa 162",
-      "titulo": "Modern House Design 7.5x11m | 2Bedrooms with Swimming Pool",
+      "titulo": "Design de casa moderna 7.5x11m | 2Quartos com piscina",
       "videoId": "Ra1d1rRO7Ug",
       "url": "https://www.youtube.com/watch?v=Ra1d1rRO7Ug&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=162&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/Ra1d1rRO7Ug/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLCU6I9UmnIHGTSOFwGpdBwM6uDqfQ",
@@ -1467,7 +1467,7 @@
     {
       "numero": 163,
       "nome": "casa 163",
-      "titulo": "2 Storey Modern House Design 7x9Meters | Complete Interior & Exterior Tour",
+      "titulo": "Design de casa moderna de 2 andares 7x9Meters | Excursão completa de interiores e exteriores",
       "videoId": "sRW5odvxQCw",
       "url": "https://www.youtube.com/watch?v=sRW5odvxQCw&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=163&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/sRW5odvxQCw/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLB-v9M_ca6BJI4o6jsgeSICG8YESw",
@@ -1476,7 +1476,7 @@
     {
       "numero": 164,
       "nome": "casa 164",
-      "titulo": "Simple house size 7x8 meters | Attractive interior Design",
+      "titulo": "Tamanho da casa simples 7x8 metros | Design de interiores atraente",
       "videoId": "lMi9lmyGyQc",
       "url": "https://www.youtube.com/watch?v=lMi9lmyGyQc&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=164&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/lMi9lmyGyQc/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLDsXj1WlC7gCZmagW62K4-k0ArPFA",
@@ -1485,7 +1485,7 @@
     {
       "numero": 165,
       "nome": "casa 165",
-      "titulo": "Simple and Modern House Design idea | 9x12 Meters with 3Bedrooms (Full Tour)",
+      "titulo": "Ideia de design de casa simples e moderna | 9x12 metros com 3 quartos (Excursão completa)",
       "videoId": "J-i9AOpsbEQ",
       "url": "https://www.youtube.com/watch?v=J-i9AOpsbEQ&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=165&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/J-i9AOpsbEQ/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLCiGSQ1_AmvbM5inpoL_qUg0CLjEw",
@@ -1494,7 +1494,7 @@
     {
       "numero": 166,
       "nome": "casa 166",
-      "titulo": "This 9.5x12 Meter Modern House Has the Most Sophisticated Design",
+      "titulo": "Esta casa moderna de 9,5x12 metros tem o design mais sofisticado",
       "videoId": "nZuejXeOpM8",
       "url": "https://www.youtube.com/watch?v=nZuejXeOpM8&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=166&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/nZuejXeOpM8/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLDK9dbnwsRqDYeDVSnKxm8Lt4wlJQ",
@@ -1503,7 +1503,7 @@
     {
       "numero": 167,
       "nome": "casa 167",
-      "titulo": "Modern Luxury Home with 6 Bedrooms | Interior Design Tour",
+      "titulo": "Casa de luxo moderna com 6 quartos | Tour de design de interiores",
       "videoId": "-kf2x5CXe8I",
       "url": "https://www.youtube.com/watch?v=-kf2x5CXe8I&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=167&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/-kf2x5CXe8I/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLB2ohRwF3LPS2kBsfpJ9NN2BiWUZQ",
@@ -1512,7 +1512,7 @@
     {
       "numero": 168,
       "nome": "casa 168",
-      "titulo": "8x9.2 METERS MODERN HOUSE DESIGN | 2 Storey with 3Bedrooms",
+      "titulo": "8x9.2 METROS DESIGN DE CASA MODERNA | 2 Andares com 3Quartos",
       "videoId": "EbkJsGcX6xU",
       "url": "https://www.youtube.com/watch?v=EbkJsGcX6xU&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=168&pp=iAQB0gcJCTAMAYcqIYzvmAkA",
       "thumbnail": "https://i.ytimg.com/vi/EbkJsGcX6xU/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLAIwtOPLKR0pVLoVguMws8zS-IFtQ",
@@ -1521,7 +1521,7 @@
     {
       "numero": 169,
       "nome": "casa 169",
-      "titulo": "Modern Luxury House with 5 Bedrooms | Exterior and Interior Design",
+      "titulo": "Casa de luxo moderna com 5 quartos | Design exterior e interior",
       "videoId": "uhkLN_ajR6U",
       "url": "https://www.youtube.com/watch?v=uhkLN_ajR6U&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=169&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/uhkLN_ajR6U/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLBF1ILJT0GVoOduToxIJMK2Voil7g",
@@ -1530,7 +1530,7 @@
     {
       "numero": 170,
       "nome": "casa 170",
-      "titulo": "Modern 7x 8Meters House Design | 4 Bedrooms in a Tiny Footprint",
+      "titulo": "Design de casa moderno de 7x 8meters | 4 quartos em uma pequena pegada",
       "videoId": "Qcx2fn8NUBk",
       "url": "https://www.youtube.com/watch?v=Qcx2fn8NUBk&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=170&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/Qcx2fn8NUBk/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLBoqeR3ApVWZzk3Me0j7b3nSy8EYg",
@@ -1539,7 +1539,7 @@
     {
       "numero": 171,
       "nome": "casa 171",
-      "titulo": "Luxury Home Tour 4 Bedroom Modern House | One Storey House",
+      "titulo": "Tour de luxo Casa de 4 quartos Casa moderna | One Storey House",
       "videoId": "ucPtXp4xJMI",
       "url": "https://www.youtube.com/watch?v=ucPtXp4xJMI&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=171&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/ucPtXp4xJMI/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLDGaBPZh6rbGTWcbbtkcsCX_blYEg",
@@ -1548,7 +1548,7 @@
     {
       "numero": 172,
       "nome": "casa 172",
-      "titulo": "Modern House Design with Swimming pools | 3Bedrooms House",
+      "titulo": "Design de casa moderna com piscinas | 3Bedrooms House",
       "videoId": "Uz623vBOTC8",
       "url": "https://www.youtube.com/watch?v=Uz623vBOTC8&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=172&pp=iAQB0gcJCTAMAYcqIYzvmAkA",
       "thumbnail": "https://i.ytimg.com/vi/Uz623vBOTC8/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLCEjUaf9q3i_bnA5qzOYcx0qRiL-Q",
@@ -1557,7 +1557,7 @@
     {
       "numero": 173,
       "nome": "casa 173",
-      "titulo": "Modern House Design 2 Storey | 4 Bedrooms Home in 9x11 Meters",
+      "titulo": "Modern House Design 2 Storey | Casa de 4 quartos em 9x11 metros",
       "videoId": "LRLPYRQz37o",
       "url": "https://www.youtube.com/watch?v=LRLPYRQz37o&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=173&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/LRLPYRQz37o/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLAALXDYxL21S8wPNEjdYtRdSUIPig",
@@ -1566,7 +1566,7 @@
     {
       "numero": 174,
       "nome": "casa 174",
-      "titulo": "Modern House Design | 7 x 9 Meters 2storey | 4Bedrooms (Luxury House)",
+      "titulo": "Design de casa moderna | 7 x 9 metros 2storyy | 4Quartos (Casa de luxo)",
       "videoId": "L-SBJQqrFZY",
       "url": "https://www.youtube.com/watch?v=L-SBJQqrFZY&list=PLE6tt5HXJv4efcyPErOoy7TaZOwfy97LK&index=174&pp=iAQBmAkA",
       "thumbnail": "https://i.ytimg.com/vi/L-SBJQqrFZY/hqdefault.jpg?sqp=-oaymwEgCPYBEIoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLCQFwEViWuUbL-hh_JDAjCe_-HVAA",

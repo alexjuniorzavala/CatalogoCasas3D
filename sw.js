@@ -1,6 +1,8 @@
-const CACHE_NAME = "casas3d-media-cache-v4";
+const CACHE_VERSION = "v2";
+const CACHE_NAME = `casas3d-sdesign-media-cache-${CACHE_VERSION}`;
 const CACHE_TTL_MS = 30 * 24 * 60 * 60 * 1000;
-const META_KEY = "/__casas3d_media_cache_meta__";
+const META_KEY = "/__casas3d_sdesign_media_cache_meta_v2__";
+const APP_INDEX_KEY = "casas3d-sdesign-app-v2";
 
 async function getCacheMeta(cache) {
     try {
@@ -41,9 +43,23 @@ function isMediaRequest(url) {
     return /\.(mp4|webm|mov|m4v|jpg|jpeg|png|gif|webp|bmp|svg)(\?.*)?$/i.test(pathname);
 }
 
+function isAppDataRequest(url) {
+    const pathname = url.pathname || "";
+    return pathname.endsWith("/playlist-casas-sdesign.json") || pathname.endsWith("/index.html") || pathname === "/";
+}
+
 self.addEventListener("install", function (event) {
     self.skipWaiting();
-    event.waitUntil(caches.open(CACHE_NAME));
+    const appShell = ["./", "./index.html", "./playlist-casas-sdesign.json", "./sw.js"];
+    event.waitUntil(
+        caches.open(APP_INDEX_KEY).then(function (cache) {
+            return cache.addAll(appShell).catch(function () {
+                return undefined;
+            });
+        }).then(function () {
+            return caches.open(CACHE_NAME);
+        })
+    );
 });
 
 self.addEventListener("activate", function (event) {
@@ -52,7 +68,7 @@ self.addEventListener("activate", function (event) {
             return Promise.all(
                 cacheNames
                     .filter(function (cacheName) {
-                        return cacheName !== CACHE_NAME;
+                        return cacheName !== CACHE_NAME && cacheName !== APP_INDEX_KEY;
                     })
                     .map(function (cacheName) {
                         return caches.delete(cacheName);
@@ -72,6 +88,26 @@ self.addEventListener("fetch", function (event) {
     }
 
     const url = new URL(request.url);
+    const isLocalAppFile = url.origin === self.location.origin && (isAppDataRequest(url) || request.mode === "navigate");
+
+    if (isLocalAppFile) {
+        event.respondWith(
+            caches.match(request).then(function (cached) {
+                return cached || fetch(request).then(function (response) {
+                    if (response && response.status === 200) {
+                        const cacheName = request.mode === "navigate" ? APP_INDEX_KEY : APP_INDEX_KEY;
+                        caches.open(cacheName).then(function (cache) {
+                            cache.put(request, response.clone());
+                        });
+                    }
+                    return response;
+                }).catch(function () {
+                    return caches.match("./index.html") || caches.match("./playlist-casas-sdesign.json") || Response.error();
+                });
+            })
+        );
+        return;
+    }
 
     if (!isMediaRequest(url) || !isAllowedOrigin(url)) {
         return;

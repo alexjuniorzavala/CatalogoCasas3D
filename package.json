@@ -1,0 +1,8 @@
+{
+  "name": "catalogo-casas-3d",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "update:images": "node scripts/sync-playlist-data.js"
+  }
+}
