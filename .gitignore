@@ -1,0 +1,7 @@
+# Mantém apenas o vídeo aprovado dentro da pasta Videos
+Videos/*
+!Videos/Casas\ 3D\ 9p16200.mp4
+
+# Arquivos comuns de ambiente
+.DS_Store
+*.log
